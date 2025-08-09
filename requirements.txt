@@ -1,0 +1,9 @@
+opencv-python
+numpy
+imutils
+mahotas
+matplotlib
+scikit-image
+reportlab
+kivy
+kivymd
