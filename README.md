@@ -4,9 +4,9 @@ This project detects transient celestial objects in astronomical images using th
 
 ## Features
 - Image rotation and noise reduction
-- Background subtraction using Rolling Ball algorithm
-- Template matching to align and crop constellation
-- Object labeling and statistical comparison
+- Background subtraction using the Rolling Ball algorithm
+- Template matching to align and crop the constellation
+- Object labelling and statistical comparison
 - SSIM and PSNR metrics
 - Automated PDF report generation
 
@@ -35,6 +35,4 @@ This project detects transient celestial objects in astronomical images using th
 - Final PDF report with visuals and object stats
 
 ## Authors
-- Nisha Kazmi (CS-17040)
-- Sara Jamal (CS-17052)
-- Muhammad Shahzaib Ali (CS-17055)
+- Nisha Kazmi
